@@ -1,4 +1,4 @@
-## If you really want a good & free python obfuscator (unlike this one) you should join our [discord server](https://discord.gg/vPY3XmntKU).
+## If you really want a good & free python obfuscator (unlike this one) you check [KarrotPY](https://pyob.zeynox.fun/).
 ---
 ![Logo](https://i.ibb.co/Kj4rNh6/pyold.png)
 ## IRM Python Obfuscator
